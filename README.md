@@ -15,4 +15,3 @@ I design and develop websites and mobile applications that prioritize performanc
 ## Let’s Connect!
 Feel free to reach out if you're looking for someone to help you with web or mobile development.
 - **Discord**: @dumartist
-- **Email**: drakelynn22@gmail.co
