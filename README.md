@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi, I'm Arthur 👋
+## I go by DumArtist online, but my real name is Arthur.
 
-<!--
-**dumartist/dumartist** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m an aspiring Information Technology student passionate about building websites and mobile apps. I focus on creating user-friendly and functional digital experiences.
 
-Here are some ideas to get you started:
+## Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Web Development**: HTML, CSS, JavaScript, SCSS, PHP
+- **Backend**: Flask, PHP
+- **Mobile App Development**: Flutter, Java
+- **Databases**: MySQL, SQLAlchemy
+- **Version Control**: Git, GitHub
+
+## What I Do
+
+I design and develop websites and mobile applications that prioritize performance and user experience. My goal is to bring ideas to life by turning them into functional and intuitive digital products.
