@@ -1,5 +1,5 @@
 # Hi, I'm Arthur 👋
-## I go by DumArtist online, but my real name is Arthur.
+## I go by DumArtist online, but you can call me Arthur.
 I’m an aspiring Information Technology student passionate about building websites and mobile apps. I focus on creating user-friendly and functional digital experiences.
 
 ## Skills
